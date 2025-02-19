@@ -39,7 +39,7 @@ During this project, I practiced:
 - HTML5
 
 ## Launch
-[See the live version of the Dog Photo Gallery app here.](https://skillcrush-py-cl02-ls11-dog-photos-random-jinja-flask-final.lonemortensen.repl.co/)
+[See the live version of the Dog Photo Gallery app here.](https://replit.com/@lonemortensen/skillcrush-py-cl02-ls11-dog-photos-random-jinja-flask-final)
 
 ## Acknowledgements
 
